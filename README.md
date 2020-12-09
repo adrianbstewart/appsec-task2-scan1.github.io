@@ -7,6 +7,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Task 1: A vuln found in a scan, remediated and a direct link sent to a scan manager
 Profanity: Fuck it!
 
+Profanity: Fuck it!
+
+Profanity: Another Fuck it!
+
+Profanity: And yes, one more Fuck it!
+
+
+
 
 ### Markdown
 
