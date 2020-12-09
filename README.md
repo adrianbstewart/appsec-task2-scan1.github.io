@@ -1,4 +1,4 @@
-## Task 2
+## Task 2 - Scan 1
 
 You can use the [editor on GitHub](https://github.com/adrianbstewart/adrianbstewart.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
